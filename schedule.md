@@ -4,7 +4,6 @@ title: Course Schedule & Project List
 ---
 
 {% include nav.html %}
-
 ---
 # Course Schedule 
 
