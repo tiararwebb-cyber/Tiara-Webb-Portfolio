@@ -21,9 +21,9 @@ Check out my image!
 <h2>Copilot ChatGPT-5 Response </h2>
 I also tried Copilot with ChatGPT-5 and here's a bit of our conversation
 
-<b>Question:<b> Is Zulu the first Bantu language?
+<b>Question:</b> Is Zulu the first Bantu language?
 
-<b>Chat's response:<b> No. Zulu is not the first Bantu language.
+<b>Chat's response:</b> No. Zulu is not the first Bantu language.
 
 Linguists believe that all Bantu languages, including Zulu, descended from a much older ancestral language called Proto-Bantu, which was spoken thousands of years ago in West-Central Africa before Bantu-speaking peoples migrated across much of sub-Saharan Africa. Zulu is one of the many modern languages that developed from that earlier language.
 
