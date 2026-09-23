@@ -18,7 +18,7 @@ Check out my image!
 
 
 ---
-<h2> Copilot ChatGPT-5 Response </h2>
+<h2>Copilot ChatGPT-5 Response </h2>
 I also tried Copilot with ChatGPT-5 and here's a bit of our conversation
 
 Question: Is Zulu the first Bantu language
