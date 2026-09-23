@@ -53,6 +53,7 @@ Because Zulu is one of the best-known and most widely spoken Bantu languages, so
 So the short answer is:
 
 No, Zulu is not the first Bantu language. It is a modern Bantu language that evolved from the ancient Proto-Bantu language and belongs to the Nguni branch of the Bantu family.
----
 
+
+---
 These tools help people analyze articles and large pieces of writing so research can become quicker. With Voyant, it gave an overview of commonly used phrases found in the website such as important dates and words related to the Zulu language. However, the words it chose may seem to be very surface level and doesn't really go in depth to what the website was discussing. With Copilot, I was able to get more in-depth responses about the Zulu language and even find other articles and websites related to my topic. Copilot was unable to "remember" the information I asked it before and I found myself repeating the same questions I previously asked which could make the research process take a bit longer. Overall, I learned distant reading is useful when analyzing several pieces of text because of how much information these tools can intake and summarize for users in a digestible way. However, distance reading tools lack in depth and may have bias when retrieving information from the internet. People must take extra precautions when using these tools and combine it with using trusted and reliable databases for their research!.
